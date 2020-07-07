@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (catchit.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Documents\Work\Final projects\game\stdafx.h(19,10): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
+  MyGame.cpp
+D:\Documents\Work\Final projects\game\stdafx.h(19,10): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
